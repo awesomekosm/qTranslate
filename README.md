@@ -1,1 +1,1 @@
-# EMBTranslate
+# [EMBTranslate Samples](https://z-emb.github.io/#EMBTranslations)
