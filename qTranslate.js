@@ -1,5 +1,5 @@
-/*!MIT License Copyright (c) 2017 Eugene Barnett*/
-var EMBTranslate = function (jsonTranslation, lang, attrName, scope) {
+/*!Public Domain 2017 Eugene Barnett*/
+var qTranslate = function (jsonTranslation, lang, attrName, scope) {
     var allElements = null;
     if (scope) {
         allElements = document.querySelector(scope);
