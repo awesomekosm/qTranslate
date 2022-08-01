@@ -1,1 +1,1 @@
-# [qTranslate Samples](https://z-emb.github.io/#qTranslations)
+# [qTranslate Samples](https://eugenebar.net/#qTranslations)
